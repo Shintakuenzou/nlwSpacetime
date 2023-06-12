@@ -56,4 +56,6 @@ Clone este repositório:
 ```bash
 git clone https://github.com/Shintakuenzou/nlwSpacetime.git
 ```
+## Licença
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
